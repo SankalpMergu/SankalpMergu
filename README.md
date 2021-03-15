@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **youtube**
 
-- 👨‍💻 All of my projects are available at [https://sankalpmergu.github.io/SankalpPortfolio/](https://sankalpmergu.github.io/SankalpPortfolio/)
+- 👨‍💻 You can check out portfolio [https://sankalpmergu.github.io/SankalpPortfolio/](https://sankalpmergu.github.io/SankalpPortfolio/)
 
 - 💬 Ask me about **Java and web Development**
 
