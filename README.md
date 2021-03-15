@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **youtube**
 
-- 👨‍💻 You can check out portfolio [https://sankalpmergu.github.io/SankalpPortfolio/](https://sankalpmergu.github.io/SankalpPortfolio/)
+- 👨‍💻 All of my projects are available at [https://sankalpmergu.github.io/SankalpPortfolio/](https://sankalpmergu.github.io/SankalpPortfolio/)
 
 - 💬 Ask me about **Java and web Development**
 
@@ -18,6 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sankalp mergu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sankalp mergu" height="30" width="40" /></a>
+<a href="https://fb.com/sankalp mergu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sankalp mergu" height="30" width="40" /></a>
+<a href="https://instagram.com/sankalpmergu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sankalpmergu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
