@@ -30,8 +30,8 @@
 
 <h3 align="left">Learning Stuffs :</h3>
 <p align="left">Data Structure and Algorithms</p>
-<h4 align="left">React</h4>
-<h4 align="left">Spring<h4>
+<p align="left">React<p>
+<p align="left">Spring<p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankalpmergu&show_icons=true&locale=en" alt="sankalpmergu" /></p>
 
