@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sankalp Mergu</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalpmergu&label=Profile%20views&color=0e75b6&style=flat" alt="sankalpmergu" /> </p>
-<h3 align="center">A passionate frontend developer and java developer from India</h3>
+<h3 align="center">A passionate full Stack developer and java developer from India</h3>
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/69752459/123550442-15236800-d78b-11eb-851b-c2a48938bd96.gif">
 </p>
